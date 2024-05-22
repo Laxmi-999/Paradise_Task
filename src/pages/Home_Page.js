@@ -12,6 +12,7 @@ import ExploreSection from "../Components/ExploreSection";
 import NewArrivalSection from "../Components/NewArrivalSection";
 import Services from "../Components/Services";
 import Footer from "../Components/Footer";
+import Banner from "../Components/BlackBg";
 
 
 
@@ -39,8 +40,7 @@ const Home_Page = () => {
             <Category />
         {/* <div> */}
             <Thismonth />
-            <BlackBg />
-        {/* </div>      */}
+            <Banner />        {/* </div>      */}
         <ExploreSection />
         <NewArrivalSection/>
 
