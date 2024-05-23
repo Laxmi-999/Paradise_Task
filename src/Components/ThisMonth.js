@@ -43,7 +43,7 @@ const Thismonth = () => {
                             </div>
 
 
-                            <div className="flex justify-between mt-[3px]">
+                            <div className="flex justify-between mt-[0.5rem]">
                                 <div className="w-[35px]"></div>
                                 <div>
                                     <img src="/img/pinkJacket.jpg" alt="gamepad" className="w-[90px] h-[100px]" />
@@ -81,7 +81,7 @@ const Thismonth = () => {
                             </div>
 
 
-                            <div className="flex justify-between mt-[3px]">
+                            <div className="flex justify-between mt-[0.5rem]">
                                 <div className="w-[35px]"></div>
                                 <div>
                                     <img src="/img/pinkJacket.jpg" alt="gamepad" className="w-[90px] h-[100px]" />
@@ -118,7 +118,7 @@ const Thismonth = () => {
                             </div>
 
 
-                            <div className="flex justify-between mt-[3px]">
+                            <div className="flex justify-between mt-[0.5rem]">
                                 <div className="w-[35px]"></div>
                                 <div>
                                     <img src="/img/gammaxx.jpg" alt="gamepad" className="w-[90px] h-[100px]" />
@@ -147,13 +147,13 @@ const Thismonth = () => {
                     </div>
 
                     <div className="w-[240px] h-[350px] flex flex-col  ">
-                        <div className="bg-[#F5F5F5] p-[0.5rem] pb-[2rem] ">
+                        <div className="bg-[#F5F5F5] w-[270px] p-[0.5rem] pb-[2rem] ">
                             <div className="flex justify-end items-center">
                                 <AiOutlineHeart className="text-2xl rounded bg-white" />
                             </div>
 
 
-                            <div className="flex justify-between mt-[3px]">
+                            <div className="flex justify-between mt-[0.5rem]">
                                 <div className="w-[35px]"></div>
                                 <div>
                                     <img src="/img/sam-moghadam.jpg" alt="gamepad" className="w-[90px] h-[100px]" />

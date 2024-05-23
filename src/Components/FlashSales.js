@@ -12,7 +12,7 @@ const FlashSales = () =>{
             </div>
             <div className="flex  justify-start w-[1170px] items-center relative mt-[0]">
                  <span className=" justify-left  align-left text-bold font-poppins text-[36px] mr-auto  font-semibold text-[36px]">Flash Sales</span>
-                 <div className="flex absolute ml-[20rem] ">
+                 <div className="flex absolute ml-[19rem] space-x-3 justify-center">
                     <div className="flex flex-col justify-center items-center">
                         <span className="text-[0.75rem] text-black font-poppins font-bold">Days</span>
                         <span className="font-poppins text-[2rem] text-black font-extrabold">03</span>

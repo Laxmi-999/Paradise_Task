@@ -88,7 +88,7 @@ const Footer = () =>{
             <hr  className="w-full text-grey-100"/>
 
              <div className="flex ml-auto mr-auto mt-[2rem] mb-[2rem]">
-                <span className="font-poppins h-[2rem] text-[2rem] text-white">copyright@gmail.com</span>
+                <span className="font-poppins h-[2rem] text-[2rem] text-[#F9F9F933]">Copyright Rimel 2022. All right reserved</span>
              </div>
 </div>
    

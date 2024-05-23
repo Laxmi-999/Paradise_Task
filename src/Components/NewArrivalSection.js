@@ -8,7 +8,7 @@ const NewArrivalSection = () => {
                 <div className="flex flex-col w-[1170px] ml-auto mr-auto space-y-0 mb-[2rem]">
                             <div className="flex justify-start ">
                                 <TbRectangleVerticalFilled className="text-[#DB4444] h-[5rem] w-[30px]" />
-                                <span className="font-poppins pt-[2rem] font-bold text-sm text-[#DB4444]">Our Products</span>
+                                <span className="font-poppins pt-[2rem] font-bold text-sm text-[#DB4444]">Featured</span>
                             </div>
                             <div className="flex w-[1170px] h-auto p-0 justify-between ml-auto mr-auto">
                                 <span className=" justify-left  align-left text-bold font-poppins text-[36px] mr-auto  font-semibold text-[36px]">Explore Our Products
